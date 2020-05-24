@@ -1,3 +1,8 @@
+# Consolidated list from https://raw.githubusercontent.com/mmotti/pihole-regex/master/regex.list
+# Consolidated list from https://raw.githubusercontent.com/nocturnalarchives/BlockLists/master/regex-blaclist-rules.txt
+#
+# Last updated on 05242020
+#
 (^|\.)ad(s|v)?-
 \bad(s|v)?\b
 ^(.+[_.-])?ad([sxv]?[0-9]*|system)[_.-]
