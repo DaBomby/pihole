@@ -1,5 +1,5 @@
-## Last updated on 20190309
-
+## Last updated on 05242020
+#
 1rx.io
 2o7.net
 7cb77.v.fwmrm.net
@@ -33,6 +33,7 @@ adtechus.com
 advertising.com
 amazon-adsystem.com
 americascardroomcom.pokermanagement.com
+analytics.livestream.com
 analytics.localytics.com
 analytics.myfinance.com
 analytics.plex.tv
@@ -52,15 +53,20 @@ beacons.extremereach.io
 betrad.com
 brightcove.com
 browsergames2018.com
+c.tvpixel.com
 casalemedia.com
 cdn.blatungo.com
 cdn.doublepimpssl.com
 cdn.geni.us
+cdn.hellomedian.com
 cdn.krxd.net
 cdn.livechatinc.com
 cdn.mxpnl.com
+cdn.userreplay.net
 cdn2.doubleverify.com
 cdn3.doubleverify.com
+check.recoverlostpassword.com
+check1.recoverlostpassword.com
 clearload.bid
 cloudservices.roku.com
 collector.exceptionless.io
@@ -81,6 +87,9 @@ eqads.com
 et.intake.factual.com
 etahub.com
 event.spotxchange.com
+example.com
+example.net
+example.org
 exelator.com
 exoclick.com
 exosrv.com
@@ -98,6 +107,10 @@ googletagmanager.com
 googletagservices.com
 griffin.logs.roku.com
 gstaticadssl.l.google.com
+hellomedian.com
+helper-stats.aimersoft.com
+hs-analytics.net
+hsadspixel.net
 i.ads.roku.com
 imgstat.baidu.com
 imgstat.n.shifen.com
@@ -113,6 +126,10 @@ ios-quinoa-personal-identify-prod.sense360eng.com
 iwanttodeliver.com
 iz682noju02ye5.com
 jelly.mdhv.io
+js-agent.newrelic.com
+js.hellomedian.com
+js.hs-analytics.net
+js.hsadspixel.net
 jwpltx.com
 k.pluto.tv
 krxd.net
@@ -130,10 +147,12 @@ lp.moviesfanatic.com
 lt500.tritondigital.com
 lt503.tritondigital.com
 m2m-api.inmarket.com
+mail-ads.google.com
 main.dynsrvazf.com
 main.exosrv.com
 mathtag.com
 mdotlabs.com
+measure.office.com
 media.trafficjunky.net
 media6degrees.com
 metrics.gfycat.com
@@ -149,6 +168,7 @@ ns11.whois.co.kr
 ns11.whoisweb.net
 nyacampwk.com
 openx.net
+oupushee.com
 p.tvpixel.com
 pagead2.googlesyndication.com
 paolo.logs.roku.com
@@ -156,6 +176,7 @@ pie.wirelessregistry.com
 prderrordumpssm.samsungcloudsolution.net
 pt-mtk.oui-0x00199d.com
 rd.samsungadhub.com
+rec.smartlook.com
 reports.crashlytics.com
 revsci.net
 rubiconproject.com
@@ -163,12 +184,14 @@ sb.scorecardresearch.com
 scorecardresearch.com
 scribe.logs.roku.com
 sdk.revealmobile.com
+search.xyz
 secure.livechatinc.com
 securemetrics.apple.com
 securepubads.g.doubleclick.net
 settings.crashlytics.com
 simpli.fi
 smartadserver.com
+socketr.hellomedian.com
 static.doubleclick.net
 static.h-bid.com
 static.tapfiliate.com
@@ -182,10 +205,13 @@ t2.hulu.com
 tags.cdn.vpsvc.com
 targeted-config-test.samsungacr.com
 teads.tv
+telemetry.microsoft.com
 telemetryservice.firstpartyapps.oaspapps.com
 tidaltv.com
 tk6if76q.ab1n.net
 tpc.googlesyndication.com
+track.hubspot.com
+track.traffic.name
 tracking.wpnetwork.eu
 trafficfactory.biz
 tritondigital.com
@@ -196,12 +222,15 @@ vacaneedasap.com
 velocitycdn.com
 victoria.logs.roku.com
 video.sekindo.com
+watson.telemetry.microsoft.com
 web.localytics.com
 webanalytics.localytics.com
 windsor.logs.roku.com
 www.flirt.live
 www.flirt4free.com
+www.fullstory.com
 www.fvkdatbzswo.bid
+www.getextraoffer.com
 www.googleadservices.com
 www.googletagmanager.com
 www.googletagservices.com
